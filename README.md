@@ -23,7 +23,7 @@ Plugins for easy-flasher project (Safe to use)
 
 Если у вас есть предложение, но вы не умеете программировать, пишите на почту arseniykorobeinikov@mail.ru мы рассмотрим ваше сообщение, и возможно напишем плагин
 
-Поддержать разработчика можно через donation alerts (https://www.donationalerts.com/r/korobochekspichek) или переводом на карту 2202 2032 6959 5973 (Сбербанк)
+Поддержать разработчика можно через DALink (https://dalink.to/easy_flasher) или переводом на карту 2202 2032 6959 5973 (Сбербанк)
 
 > EN
 
@@ -47,4 +47,4 @@ They are optional to download, they just can improve the user experience.
 
 If you have a suggestion, but you do not know how to program, write to the mail. arseniykorobeinikov@mail.ru We will review your message and maybe write a plugin.
 
-You can support the developer through donation alerts (https://www.donationalerts.com/r/korobochekspichek ) or by transfer to card 2202 2032 6959 5973 (Sberbank)
+You can support the developer through DALink (https://dalink.to/easy_flasher) or by transfer to card 2202 2032 6959 5973 (Sberbank)
